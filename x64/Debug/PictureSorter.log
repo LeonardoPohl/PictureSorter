@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\PictureSorter\PictureSorter\main.cpp(136): warning C4715: 'Action::getActionFromChar': not all control paths return a value
+  PictureSorter.vcxproj -> D:\PictureSorter\PictureSorter\x64\Debug\PictureSorter.exe
